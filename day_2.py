@@ -1,5 +1,3 @@
-from typing import List
-
 # https://leetcode.com/problems/find-words-containing-character (easy)
 class Solution:
     def findWordsContaining(self, words: List[str], x: str) -> List[int]:
