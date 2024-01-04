@@ -12,3 +12,8 @@
 ## day 3:
 * https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points (medium)
 * https://leetcode.com/problems/strictly-palindromic-number (medium)
+
+
+## day 4:
+* https://leetcode.com/problems/divisible-and-non-divisible-sums-difference (easy)
+* https://leetcode.com/problems/number-of-employees-who-met-the-target (easy)
