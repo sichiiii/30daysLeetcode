@@ -17,3 +17,8 @@
 ## day 4:
 * https://leetcode.com/problems/divisible-and-non-divisible-sums-difference (easy)
 * https://leetcode.com/problems/number-of-employees-who-met-the-target (easy)
+
+
+## day 5:
+* https://leetcode.com/problems/number-of-laser-beams-in-a-bank (medium)
+* https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/ (easy)
