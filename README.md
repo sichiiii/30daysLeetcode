@@ -22,3 +22,9 @@
 ## day 5:
 * https://leetcode.com/problems/number-of-laser-beams-in-a-bank (medium)
 * https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/ (easy)
+
+
+## day 6:
+* https://leetcode.com/problems/minimum-number-game (easy)
+* https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array (easy)
+* https://leetcode.com/problems/sorting-the-sentence (easy)
