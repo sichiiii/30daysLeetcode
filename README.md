@@ -28,3 +28,8 @@
 * https://leetcode.com/problems/minimum-number-game (easy)
 * https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array (easy)
 * https://leetcode.com/problems/sorting-the-sentence (easy)
+
+
+## day 7:
+* https://leetcode.com/problems/truncate-sentence (easy)
+* https://leetcode.com/problems/maximum-number-of-coins-you-can-get (medium)
