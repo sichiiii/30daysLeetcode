@@ -33,3 +33,13 @@
 ## day 7:
 * https://leetcode.com/problems/truncate-sentence (easy)
 * https://leetcode.com/problems/maximum-number-of-coins-you-can-get (medium)
+
+
+## day 8:
+* https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words (easy)
+* https://leetcode.com/problems/reverse-words-in-a-string-iii (easy)
+* https://leetcode.com/problems/to-lower-case/submissions/ (easy)
+* https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/ (easy)
+* https://leetcode.com/problems/find-center-of-star-graph (easy)
+* https://leetcode.com/problems/count-of-matches-in-tournament (easy)
+
