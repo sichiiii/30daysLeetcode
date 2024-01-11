@@ -50,3 +50,6 @@
 ## day 10:
 * https://leetcode.com/problems/all-possible-full-binary-trees (medium)
 
+## day 11:
+* https://leetcode.com/problems/sort-the-students-by-their-kth-score (medium)
+* https://leetcode.com/problems/partition-array-according-to-given-pivot/ (medium)
