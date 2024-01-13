@@ -58,3 +58,8 @@
 * https://leetcode.com/problems/decompress-run-length-encoded-list/ (easy)
 * https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent (easy)
 * https://leetcode.com/problems/sort-vowels-in-a-string (medium)
+
+
+## day 13:
+* https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array (easy)
+* https://leetcode.com/problems/minimize-maximum-pair-sum-in-array (middle)
