@@ -62,4 +62,9 @@
 
 ## day 13:
 * https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array (easy)
-* https://leetcode.com/problems/minimize-maximum-pair-sum-in-array (middle)
+* https://leetcode.com/problems/minimize-maximum-pair-sum-in-array (medium)
+
+
+## day 14: 
+* https://leetcode.com/problems/matrix-diagonal-sum/ (easy)
+* https://leetcode.com/problems/design-parking-system (easy)
