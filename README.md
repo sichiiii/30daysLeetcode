@@ -1,8 +1,8 @@
 # Advent of LeetCode 2024
 
 ## day 1:
-* https://leetcode.com/problems/remove-element/ (easy)
-* https://leetcode.com/problems/find-the-maximum-achievable-number/ (easy)
+* https://leetcode.com/problems/remove-element (easy)
+* https://leetcode.com/problems/find-the-maximum-achievable-number (easy)
 * https://leetcode.com/problems/find-the-original-array-of-prefix-xor (medium)
 
 ## day 2:
@@ -38,8 +38,8 @@
 ## day 8:
 * https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words (easy)
 * https://leetcode.com/problems/reverse-words-in-a-string-iii (easy)
-* https://leetcode.com/problems/to-lower-case/submissions/ (easy)
-* https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/ (easy)
+* https://leetcode.com/problems/to-lower-case/submissions (easy)
+* https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k (easy)
 * https://leetcode.com/problems/find-center-of-star-graph (easy)
 * https://leetcode.com/problems/count-of-matches-in-tournament (easy)
 
@@ -52,10 +52,10 @@
 
 ## day 11:
 * https://leetcode.com/problems/sort-the-students-by-their-kth-score (medium)
-* https://leetcode.com/problems/partition-array-according-to-given-pivot/ (medium)
+* https://leetcode.com/problems/partition-array-according-to-given-pivot (medium)
 
 ## day 12:
-* https://leetcode.com/problems/decompress-run-length-encoded-list/ (easy)
+* https://leetcode.com/problems/decompress-run-length-encoded-list (easy)
 * https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent (easy)
 * https://leetcode.com/problems/sort-vowels-in-a-string (medium)
 
@@ -68,3 +68,8 @@
 ## day 14: 
 * https://leetcode.com/problems/matrix-diagonal-sum/ (easy)
 * https://leetcode.com/problems/design-parking-system (easy)
+
+
+## day 15: 
+* https://leetcode.com/problems/kids-with-the-greatest-number-of-candies (easy)
+* https://leetcode.com/problems/range-sum-of-bst/ (easy)
