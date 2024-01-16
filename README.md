@@ -74,3 +74,7 @@
 ## day 15: 
 * https://leetcode.com/problems/kids-with-the-greatest-number-of-candies (easy)
 * https://leetcode.com/problems/range-sum-of-bst (easy)
+
+
+## day 16:
+* https://leetcode.com/problems/sort-the-people (easy)
