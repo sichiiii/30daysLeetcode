@@ -78,3 +78,9 @@
 
 ## day 16:
 * https://leetcode.com/problems/sort-the-people (easy)
+
+
+## day 17:
+* https://leetcode.com/problems/add-binary (easy)
+* https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target (easy)
+* https://leetcode.com/problems/reducing-dishes (hard)
