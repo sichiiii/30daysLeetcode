@@ -84,3 +84,8 @@
 * https://leetcode.com/problems/add-binary (easy)
 * https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target (easy)
 * https://leetcode.com/problems/reducing-dishes (hard)
+
+
+## day 18:
+* https://leetcode.com/problems/maximum-69-number (easy)
+* https://leetcode.com/problems/destination-city (easy)
