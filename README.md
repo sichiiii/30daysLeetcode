@@ -89,3 +89,8 @@
 ## day 18:
 * https://leetcode.com/problems/maximum-69-number (easy)
 * https://leetcode.com/problems/destination-city (easy)
+
+
+## day 19:
+* https://leetcode.com/problems/build-an-array-with-stack-operations (easy)
+* https://leetcode.com/problems/decode-xored-array (easy)
