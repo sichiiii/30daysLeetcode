@@ -99,3 +99,7 @@
 ## day 20:
 * https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string (easy)
 * https://leetcode.com/problems/removing-stars-from-a-string/ (medium)
+
+
+# day 21:
+* https://leetcode.com/problems/check-if-the-sentence-is-pangram (easy)
