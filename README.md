@@ -94,3 +94,8 @@
 ## day 19:
 * https://leetcode.com/problems/build-an-array-with-stack-operations (easy)
 * https://leetcode.com/problems/decode-xored-array (easy)
+
+
+## day 20:
+* https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string (easy)
+* https://leetcode.com/problems/removing-stars-from-a-string/ (medium)
