@@ -103,3 +103,11 @@
 
 # day 21:
 * https://leetcode.com/problems/check-if-the-sentence-is-pangram (easy)
+
+
+# day 22:
+* https://leetcode.com/problems/find-greatest-common-divisor-of-array (easy)
+* https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix (easy)
+* https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences (easy)
+
+
